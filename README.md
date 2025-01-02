@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript, Typescript, React, Angular, NodeJs, ExpressJs, Django, Python, Java, Html, Css, MySql, SqlServer, MariaDB y MongoDB.**
 
-- 📫 How to reach me **alanmercadoo@gmail.com**
+- 📫 How to reach me **alanmercadooam@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alan-mercadoo/](https://www.linkedin.com/in/alan-mercadoo/)
 
